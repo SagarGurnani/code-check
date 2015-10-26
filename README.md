@@ -4,7 +4,7 @@ Node.js module to check your repository for private key files and JavaScript cod
 # Installation
 >```
 >npm install code-check
->```
+
 
 # Usage
 
@@ -15,7 +15,6 @@ Node.js module to check your repository for private key files and JavaScript cod
 >/*Run the check for sensitive files/code 
 >in your current working directory and its children*/
 >codeCheck.runCheck();
->```
 
 # Configuration
 Present in /node_modules/code-check/restrictedKeyword.json.
