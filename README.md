@@ -36,11 +36,7 @@ Present in /node_modules/code-check/restrictedKeywords.json.
 >		".pem"
 >	],
 >	
->	"ignored" : [
->		"helper.js",
->		"main.js",
->		"restrictedKeywords.json"
->	]	
+>	"ignored" : []	
 >}
 
 Enter keywords to search for in your JavaScript code, in 'keyWords[]'.<br>

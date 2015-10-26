@@ -14,9 +14,5 @@
 		".pem"
 	],
 	
-	"ignored" : [
-		"helper.js",
-		"main.js",
-		"restrictedKeywords.json"
-	]	
+	"ignored" : []	
 }
