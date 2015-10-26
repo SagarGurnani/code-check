@@ -19,6 +19,7 @@ Node.js module to check your repository for private key files and JavaScript cod
 
 
 # Result
-After the check finishes running, the tool with give your repo a clean chit or warn you of potentially sensitive files/code in your repo
+After the check finishes running, the tool with give your repo a clean chit or warn you<br>
+of potentially sensitive files/code in your repo
 
 
