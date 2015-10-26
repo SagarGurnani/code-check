@@ -1,0 +1,30 @@
+{
+  "name": "code-check",
+  "version": "1.0.0",
+  "description": "A Node.js module to help you discover key files in your repository and secret keys/tokens in your JavaScript files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SagarGurnani/code-check.git"
+  },
+  "keywords": [
+    "code",
+    "check",
+    "key",
+    "token",
+    "secret",
+    "private"
+  ],
+  "author": "Sagar Gurnani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SagarGurnani/code-check/issues"
+  },
+  "homepage": "https://github.com/SagarGurnani/code-check",
+  "devDependencies": {
+    "esprima": "^2.7.0"
+  }
+}

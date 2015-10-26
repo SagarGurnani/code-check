@@ -1,0 +1,22 @@
+{
+	"keyWords" : [
+		"accessKeyId",
+		"secretAccessKey",
+		"token",
+		"secret"
+	],
+
+	"keyFiles" : [
+		"keys",
+		"key",
+		"id_rsa",
+		".pub",
+		".pem"
+	],
+	
+	"ignored" : [
+		"helper.js",
+		"main.js",
+		"restrictedKeywords.json"
+	]	
+}
