@@ -10,7 +10,8 @@ npm install code-check
 >//Require the 'code-check' module
 >var codeCheck = require('code-check');
 >
->//Run the check for sensitive files/code in your current working directory and its children
+>/*Run the check for sensitive files/code 
+>in your current working directory and its children*/
 >codeCheck.runCheck();
 
 
