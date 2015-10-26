@@ -20,8 +20,8 @@ Node.js module to check your repository for private key files and JavaScript cod
 # Configuration
 Present in /node_modules/code-check/restrictedKeyword.json.
 
-Enter keywords to search for in your JavaScript code, in 'keyWords[]'.
-Enter keywords to search for sensitive filenames, in 'keyFiles[]'.
+Enter keywords to search for in your JavaScript code, in 'keyWords[]'.<br>
+Enter keywords to search for sensitive filenames, in 'keyFiles[]'.<br>
 Enter files to be ignored for sensitive content in 'ignored[]'.
 
 Some defaults have been set up.
