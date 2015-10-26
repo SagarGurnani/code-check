@@ -17,7 +17,7 @@ Node.js module to check your repository for private key files and JavaScript cod
 >codeCheck.runCheck();
 
 # Configuration
-Present in /node_modules/code-check/restrictedKeyword.json.
+Present in /node_modules/code-check/restrictedKeywords.json.
 
 >```
 >{
