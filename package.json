@@ -1,6 +1,6 @@
 {
   "name": "code-check",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A Node.js module to help you discover key files in your repository and secret keys/tokens in your JavaScript files",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,8 @@
     "url": "https://github.com/SagarGurnani/code-check/issues"
   },
   "homepage": "https://github.com/SagarGurnani/code-check",
-  "dependencies":{
-	"esprima": "^2.7.0"
+  "dependencies": {
+    "esprima": "^2.7.0"
   },
   "devDependencies": {
     "esprima": "^2.7.0"
