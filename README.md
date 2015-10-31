@@ -1,6 +1,9 @@
 # code-check
 Node.js module to check your repository for private key files and JavaScript code for sensitive tokens and keys. Can help you prevent a commit if such files/code are found. It uses the Esprima parser to analyze the code ( esprima.org ).
 
+*Note: Fixed Esprima dependency issue*
+======================================
+
 # Installation
 >```
 >npm install code-check
@@ -46,7 +49,7 @@ Enter files to be ignored for sensitive content in 'ignored[]'.
 Some defaults have been set up.
 
 # Result
-After the check finishes running, the tool with give your repo a clean chit or warn you
+After the check finishes running, the tool will give your repo a clean chit or warn you
 of potentially sensitive files/code in your repo
 
 

@@ -24,6 +24,9 @@
     "url": "https://github.com/SagarGurnani/code-check/issues"
   },
   "homepage": "https://github.com/SagarGurnani/code-check",
+  "dependencies":{
+	"esprima": "^2.7.0"
+  }
   "devDependencies": {
     "esprima": "^2.7.0"
   }
