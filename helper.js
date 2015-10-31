@@ -70,7 +70,9 @@ module.exports = {
 		var sensFiles = [];
 		var sensWords = [];
 
-		var restricted = fs.readFileSync('./restrictedKeywords.json','utf8');
+		var pathToModules = './node_modules/code-check/';
+
+		var restricted = fs.readFileSync(pathToModules+'restrictedKeywords.json','utf8');
 		restricted = JSON.parse(restricted);
 		var keyWords = restricted.keyWords.join('|');
 		var keyFiles = restricted.keyFiles.join('|');
