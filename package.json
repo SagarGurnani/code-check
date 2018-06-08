@@ -1,6 +1,6 @@
 {
   "name": "code-check",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A Node.js module to help you discover key files in your repository and secret keys/tokens in your JavaScript files",
   "main": "index.js",
   "scripts": {
